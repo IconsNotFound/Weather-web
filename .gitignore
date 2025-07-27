@@ -106,8 +106,8 @@ Desktop.ini
 *.app
 *.zip
 *.tar.gz
-*.wasm
-*.js.map
+#*.wasm
+#*.js.map
 #*.js
 #*.html
 
